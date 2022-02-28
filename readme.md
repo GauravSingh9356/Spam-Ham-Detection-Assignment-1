@@ -1,23 +1,28 @@
+## Assignment -1 Machine Learning
+ 
+
 **Author: Gaurav Singh**
 
 **Roll no: CSE/19031/458**
 
 **Reg no: 458**
 
-**Steps to Run:**
 
 **Processes:**
 
 ```
-	Importing Libraries.
-	Removal of NaN datas.
-	Datatype conversion of target column to int64 instead of float64.
-	Conversion of textual data to numerical data in vectorized matrix form.
-	Data train test split.
-	Training the Model.
-	Testing the Model
+	* Importing Libraries.
+	* Removal of NaN datas.
+	* Datatype conversion of target column to int64 instead of float64.
+	* Conversion of textual data to numerical data in vectorized matrix form.
+	* Data train test split.
+	* Training the Model.
+	* Testing the Model
 
 ```
+
+
+**Steps to Run:**
 
     1. Upload the .ipynb file and the provided dataset to the root directory of Jupyter notebook and the just run all the cells.
 
